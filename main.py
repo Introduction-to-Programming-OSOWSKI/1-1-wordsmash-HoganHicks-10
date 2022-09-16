@@ -1,3 +1,3 @@
-def wordsmash():
-    return "cat" + "dog" 
-    print("catdog")
+def wordSmash():
+    return "Cat" + "Dog" 
+    print("CatCog")
