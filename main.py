@@ -1,1 +1,3 @@
-#WRITE YOUR CODE HERE
+def wordsmash():
+    return "cat" + "dog" 
+    print("catdog")
